@@ -11,4 +11,4 @@ Este projeto é uma aplicação WEB desenvolvida em Python utilizando o framewor
 - Streamlit
 
 ## Link de Acesso
-[Calculadora de Rendimentos](https://calcular-ira.streamlit.app/)
+[Calcular Índice de Rendiemnto Acadêmico](https://calcular-ira.streamlit.app/)
