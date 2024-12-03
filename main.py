@@ -60,3 +60,7 @@ def calcular_ira():
 calcular = st.button("Calcular IRA")
 if calcular:
     calcular_ira()
+
+# Rodapé da página
+st.markdown("---")
+st.markdown("Desenvolvido por: [Guilherme Wagner](https://www.linkedin.com/in/guilherme-wagner)")
